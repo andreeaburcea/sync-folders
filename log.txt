@@ -1,0 +1,277 @@
+2022-07-24 15:15:46 - <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2022-07-24 15:15:46 - Synchronizing directory C:/Users/alexa/PycharmProjects/sync/replica with C:/Users/alexa/PycharmProjects/sync/source
+2022-07-24 15:15:46 - Source directory: C:/Users/alexa/PycharmProjects/sync/source:
+2022-07-24 15:15:46 - Copying file test5.txt from C:/Users/alexa/PycharmProjects/sync/source\ to C:/Users/alexa/PycharmProjects/sync/replica\
+2022-07-24 15:15:46 - Created file: .\replica\test5.txt
+2022-07-24 15:15:46 - Modified file: .\replica\test5.txt
+2022-07-24 15:15:46 - Copying file test2.txt from C:/Users/alexa/PycharmProjects/sync/source\ to C:/Users/alexa/PycharmProjects/sync/replica\
+2022-07-24 15:15:46 - Modified file: .\replica\test5.txt
+2022-07-24 15:15:46 - Modified directory: .\replica
+2022-07-24 15:15:46 - Created file: .\replica\test2.txt
+2022-07-24 15:15:46 - Modified file: .\replica\test2.txt
+2022-07-24 15:15:46 - Modified file: .\replica\test2.txt
+2022-07-24 15:15:46 - Copying file test4.txt from C:/Users/alexa/PycharmProjects/sync/source\ to C:/Users/alexa/PycharmProjects/sync/replica\
+2022-07-24 15:15:46 - Modified directory: .\replica
+2022-07-24 15:15:46 - Created file: .\replica\test4.txt
+2022-07-24 15:15:46 - Modified file: .\replica\test4.txt
+2022-07-24 15:15:46 - Copying file test3.txt from C:/Users/alexa/PycharmProjects/sync/source\ to C:/Users/alexa/PycharmProjects/sync/replica\
+2022-07-24 15:15:46 - Modified file: .\replica\test4.txt
+2022-07-24 15:15:46 - Modified directory: .\replica
+2022-07-24 15:15:46 - Created file: .\replica\test3.txt
+2022-07-24 15:15:46 - Modified file: .\replica\test3.txt
+2022-07-24 15:15:46 - Copying file test1.txt from C:/Users/alexa/PycharmProjects/sync/source\ to C:/Users/alexa/PycharmProjects/sync/replica\
+2022-07-24 15:15:46 - Modified file: .\replica\test3.txt
+2022-07-24 15:15:46 - Modified directory: .\replica
+2022-07-24 15:15:46 - Created file: .\replica\test1.txt
+2022-07-24 15:15:46 - Modified file: .\replica\test1.txt
+2022-07-24 15:15:46 - Modified file: .\replica\test1.txt
+2022-07-24 15:15:46 - dirsync finished in 0.03 seconds.
+2022-07-24 15:15:46 - Modified file: .\replica\test1.txt
+2022-07-24 15:15:46 - 1 directories parsed, 5 files copied
+2022-07-24 15:15:46 - 
+2022-07-24 15:15:47 - Modified directory: .\replica
+Modified C:/Users/alexa/PycharmProjects/sync/source C:/Users/alexa/PycharmProjects/sync/replica 
+2022-07-24 15:17:02 - <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2022-07-24 15:17:02 - Synchronizing directory C:/Users/alexa/PycharmProjects/sync/replica with C:/Users/alexa/PycharmProjects/sync/source
+2022-07-24 15:17:02 - Source directory: C:/Users/alexa/PycharmProjects/sync/source:
+2022-07-24 15:17:02 - Deleting C:/Users/alexa/PycharmProjects/sync/replica\test5.txt
+2022-07-24 15:17:02 - Deleted file: .\replica\test5.txt
+2022-07-24 15:17:02 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test2.txt
+2022-07-24 15:17:02 - Modified directory: .\replica
+2022-07-24 15:17:02 - Modified file: .\replica\test2.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test2.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test2.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test2.txt
+2022-07-24 15:17:02 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test3.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test3.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test3.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test3.txt
+2022-07-24 15:17:02 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test4.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test4.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test4.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test4.txt
+2022-07-24 15:17:02 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test1.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test1.txt
+2022-07-24 15:17:02 - Modified file: .\replica\test1.txt
+2022-07-24 15:17:02 - dirsync finished in 0.01 seconds.
+2022-07-24 15:17:02 - 1 directories parsed, 0 files copied
+2022-07-24 15:17:02 - Modified file: .\replica\test1.txt
+2022-07-24 15:17:02 - 1 files were purged.
+2022-07-24 15:17:02 - 4 files were updated by timestamp.
+2022-07-24 15:17:02 - 
+Modified C:/Users/alexa/PycharmProjects/sync/source C:/Users/alexa/PycharmProjects/sync/replica 
+2022-07-24 15:19:58 - <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2022-07-24 15:19:58 - Synchronizing directory C:/Users/alexa/PycharmProjects/sync/replica with C:/Users/alexa/PycharmProjects/sync/source
+2022-07-24 15:19:58 - Source directory: C:/Users/alexa/PycharmProjects/sync/source:
+2022-07-24 15:19:58 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test1.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test1.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test1.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test1.txt
+2022-07-24 15:19:58 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test2.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test2.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test2.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test2.txt
+2022-07-24 15:19:58 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test4.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test4.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test4.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test4.txt
+2022-07-24 15:19:58 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test3.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test3.txt
+2022-07-24 15:19:58 - Modified file: .\replica\test3.txt
+2022-07-24 15:19:58 - dirsync finished in 0.01 seconds.
+2022-07-24 15:19:58 - 1 directories parsed, 0 files copied
+2022-07-24 15:19:58 - Modified file: .\replica\test3.txt
+2022-07-24 15:19:58 - 4 files were updated by timestamp.
+2022-07-24 15:19:58 - 
+Modified C:/Users/alexa/PycharmProjects/sync/source C:/Users/alexa/PycharmProjects/sync/replica 
+2022-07-24 15:20:41 - <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2022-07-24 15:20:41 - Synchronizing directory C:/Users/alexa/PycharmProjects/sync/replica with C:/Users/alexa/PycharmProjects/sync/source
+2022-07-24 15:20:41 - Source directory: C:/Users/alexa/PycharmProjects/sync/source:
+2022-07-24 15:20:41 - Copying file test5.txt from C:/Users/alexa/PycharmProjects/sync/source\ to C:/Users/alexa/PycharmProjects/sync/replica\
+2022-07-24 15:20:41 - Created file: .\replica\test5.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test5.txt
+2022-07-24 15:20:41 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test4.txt
+2022-07-24 15:20:41 - Modified directory: .\replica
+2022-07-24 15:20:41 - Modified file: .\replica\test4.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test4.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test4.txt
+2022-07-24 15:20:41 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test3.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test3.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test3.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test3.txt
+2022-07-24 15:20:41 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test2.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test2.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test2.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test2.txt
+2022-07-24 15:20:41 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test1.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test1.txt
+2022-07-24 15:20:41 - Modified file: .\replica\test1.txt
+2022-07-24 15:20:41 - dirsync finished in 0.02 seconds.
+2022-07-24 15:20:41 - 1 directories parsed, 1 files copied
+2022-07-24 15:20:41 - Modified file: .\replica\test1.txt
+2022-07-24 15:20:41 - 4 files were updated by timestamp.
+2022-07-24 15:20:41 - 
+Modified C:/Users/alexa/PycharmProjects/sync/source C:/Users/alexa/PycharmProjects/sync/replica 
+2022-07-24 15:27:15 - <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2022-07-24 15:27:15 - Synchronizing directory C:/Users/alexa/PycharmProjects/sync/replica with C:/Users/alexa/PycharmProjects/sync/source
+2022-07-24 15:27:15 - Source directory: C:/Users/alexa/PycharmProjects/sync/source:
+2022-07-24 15:27:15 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test4.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test4.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test4.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test4.txt
+2022-07-24 15:27:15 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test5.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test5.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test5.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test5.txt
+2022-07-24 15:27:15 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test2.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test2.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test2.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test2.txt
+2022-07-24 15:27:15 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test1.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test1.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test1.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test1.txt
+2022-07-24 15:27:15 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test3.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test3.txt
+2022-07-24 15:27:15 - Modified file: .\replica\test3.txt
+2022-07-24 15:27:15 - dirsync finished in 0.01 seconds.
+2022-07-24 15:27:15 - 1 directories parsed, 0 files copied
+2022-07-24 15:27:15 - Modified file: .\replica\test3.txt
+2022-07-24 15:27:15 - 5 files were updated by timestamp.
+2022-07-24 15:27:15 - 
+Modified C:/Users/alexa/PycharmProjects/sync/source C:/Users/alexa/PycharmProjects/sync/replica 
+2022-07-24 15:27:16 - Modified file: .\log.txt
+2022-07-24 15:27:22 - Modified file: .\log.txt
+2022-07-24 15:27:22 - Modified file: .\log.txt
+2022-07-24 15:27:22 - Modified file: .\log.txt
+2022-07-24 15:27:56 - <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+2022-07-24 15:27:56 - Synchronizing directory C:/Users/alexa/PycharmProjects/sync/replica with C:/Users/alexa/PycharmProjects/sync/source
+2022-07-24 15:27:56 - Source directory: C:/Users/alexa/PycharmProjects/sync/source:
+2022-07-24 15:27:56 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test3.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test3.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test3.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test3.txt
+2022-07-24 15:27:56 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test1.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test1.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test1.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test1.txt
+2022-07-24 15:27:56 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test4.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test4.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test4.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test4.txt
+2022-07-24 15:27:56 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test2.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test2.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test2.txt
+2022-07-24 15:27:56 - Modified file: .\replica\test2.txt
+2022-07-24 15:27:56 - dirsync finished in 0.01 seconds.
+2022-07-24 15:27:56 - 1 directories parsed, 0 files copied
+2022-07-24 15:27:56 - 4 files were updated by timestamp.
+2022-07-24 15:27:56 - 
+Modified C:/Users/alexa/PycharmProjects/sync/source C:/Users/alexa/PycharmProjects/sync/replica 
+2022-07-24 15:27:57 - Modified file: .\log.txt
+2022-07-24 15:27:59 - Modified file: .\log.txt
+2022-07-24 15:27:59 - Modified file: .\log.txt
+2022-07-24 15:27:59 - Modified file: .\log.txt
+2022-07-24 15:28:12 - Created file: .\source\test6.txt
+2022-07-24 15:28:12 - Modified directory: .\source
+2022-07-24 15:28:12 - Synchronizing directory C:/Users/alexa/PycharmProjects/sync/replica with C:/Users/alexa/PycharmProjects/sync/source
+2022-07-24 15:28:12 - Source directory: C:/Users/alexa/PycharmProjects/sync/source:
+2022-07-24 15:28:12 - Copying file test6.txt from C:/Users/alexa/PycharmProjects/sync/source\ to C:/Users/alexa/PycharmProjects/sync/replica\
+2022-07-24 15:28:12 - Created file: .\replica\test6.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test6.txt
+2022-07-24 15:28:12 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test3.txt
+2022-07-24 15:28:12 - Modified directory: .\replica
+2022-07-24 15:28:12 - Modified file: .\replica\test3.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test3.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test3.txt
+2022-07-24 15:28:12 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test1.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test1.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test1.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test1.txt
+2022-07-24 15:28:12 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test4.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test4.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test4.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test4.txt
+2022-07-24 15:28:12 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test2.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test2.txt
+2022-07-24 15:28:12 - Modified file: .\replica\test2.txt
+2022-07-24 15:28:12 - dirsync finished in 0.01 seconds.
+2022-07-24 15:28:12 - 1 directories parsed, 1 files copied
+2022-07-24 15:28:12 - Modified file: .\replica\test2.txt
+2022-07-24 15:28:12 - 4 files were updated by timestamp.
+2022-07-24 15:28:12 - 
+Modified C:/Users/alexa/PycharmProjects/sync/source C:/Users/alexa/PycharmProjects/sync/replica 
+2022-07-24 15:28:13 - Modified file: .\log.txt
+2022-07-24 15:28:24 - Modified file: .\log.txt
+2022-07-24 15:28:24 - Modified file: .\log.txt
+2022-07-24 15:28:24 - Modified file: .\log.txt
+2022-07-24 15:28:58 - Created file: .\source\test6.txt~
+2022-07-24 15:28:58 - Synchronizing directory C:/Users/alexa/PycharmProjects/sync/replica with C:/Users/alexa/PycharmProjects/sync/source
+2022-07-24 15:28:58 - Modified directory: .\source
+2022-07-24 15:28:58 - Source directory: C:/Users/alexa/PycharmProjects/sync/source:
+2022-07-24 15:28:58 - Modified file: .\source\test6.txt~
+2022-07-24 15:28:58 - Copying file test6.txt~ from C:/Users/alexa/PycharmProjects/sync/source\ to C:/Users/alexa/PycharmProjects/sync/replica\
+2022-07-24 15:28:58 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test3.txt
+2022-07-24 15:28:58 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test1.txt
+2022-07-24 15:28:58 - Modified file: .\source\test6.txt
+2022-07-24 15:28:58 - Created file: .\replica\test6.txt~
+2022-07-24 15:28:58 - Modified file: .\replica\test6.txt~
+2022-07-24 15:28:58 - Modified directory: .\replica
+2022-07-24 15:28:58 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test6.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test3.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test3.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test3.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test1.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test1.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test1.txt
+2022-07-24 15:28:58 - Modified file: .\source\test6.txt
+2022-07-24 15:28:58 - Modified file: .\source\test6.txt
+2022-07-24 15:28:58 - Deleted file: .\source\test6.txt~
+2022-07-24 15:28:58 - Modified file: .\replica\test6.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test6.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test6.txt
+2022-07-24 15:28:58 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test4.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test4.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test4.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test4.txt
+2022-07-24 15:28:58 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test2.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test2.txt
+2022-07-24 15:28:58 - Modified file: .\replica\test2.txt
+2022-07-24 15:28:58 - dirsync finished in 0.05 seconds.
+2022-07-24 15:28:58 - 1 directories parsed, 1 files copied
+2022-07-24 15:28:58 - Modified file: .\replica\test2.txt
+2022-07-24 15:28:58 - 5 files were updated by timestamp.
+2022-07-24 15:28:58 - 
+2022-07-24 15:28:59 - Modified directory: .\source
+Modified C:/Users/alexa/PycharmProjects/sync/source C:/Users/alexa/PycharmProjects/sync/replica 
+2022-07-24 15:28:59 - Modified file: .\log.txt
+2022-07-24 15:29:00 - Modified file: .\log.txt
+2022-07-24 15:29:00 - Modified file: .\log.txt
+2022-07-24 15:29:00 - Synchronizing directory C:/Users/alexa/PycharmProjects/sync/replica with C:/Users/alexa/PycharmProjects/sync/source
+2022-07-24 15:29:00 - Source directory: C:/Users/alexa/PycharmProjects/sync/source:
+2022-07-24 15:29:00 - Deleting C:/Users/alexa/PycharmProjects/sync/replica\test6.txt~
+2022-07-24 15:29:00 - Deleted file: .\replica\test6.txt~
+2022-07-24 15:29:00 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test3.txt
+2022-07-24 15:29:00 - Modified directory: .\replica
+2022-07-24 15:29:00 - Modified file: .\replica\test3.txt
+2022-07-24 15:29:00 - Modified file: .\replica\test3.txt
+2022-07-24 15:29:00 - Modified file: .\replica\test3.txt
+2022-07-24 15:29:00 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test1.txt
+2022-07-24 15:29:00 - Modified file: .\replica\test1.txt
+2022-07-24 15:29:00 - Modified file: .\replica\test1.txt
+2022-07-24 15:29:00 - Modified file: .\replica\test1.txt
+2022-07-24 15:29:00 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test4.txt
+2022-07-24 15:29:00 - Modified file: .\replica\test4.txt
+2022-07-24 15:29:00 - Modified file: .\replica\test4.txt
+2022-07-24 15:29:00 - Modified file: .\replica\test4.txt
+2022-07-24 15:29:00 - Updating file C:/Users/alexa/PycharmProjects/sync/replica\test2.txt
+2022-07-24 15:29:00 - Modified file: .\replica\test2.txt
+2022-07-24 15:29:00 - Modified file: .\replica\test2.txt
+2022-07-24 15:29:00 - dirsync finished in 0.01 seconds.
+2022-07-24 15:29:00 - 1 directories parsed, 0 files copied
+2022-07-24 15:29:00 - 1 files were purged.
+2022-07-24 15:29:00 - 4 files were updated by timestamp.
+2022-07-24 15:29:00 - 
+2022-07-24 15:29:00 - Modified file: .\replica\test2.txt
+Modified C:/Users/alexa/PycharmProjects/sync/source C:/Users/alexa/PycharmProjects/sync/replica 
+2022-07-24 15:29:01 - Modified file: .\log.txt
